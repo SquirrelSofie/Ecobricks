@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "HAVSKILDPADDE",
+    "image": "./img/skildpadde_produkt.png",
+    "ageGroup": 9,
+    "brickAmount": 53,
+    "stars": 5.0,
+    "price": 349.95
+  },
+  {
+    "id": "2",
+    "name": "HAJ I KORALREV",
+    "image": "./img/haj_produkt.png",
+    "ageGroup": 12,
+    "brickAmount": 69,
+    "stars": 4.9,
+    "price": 389.95
+  },
+  {
+    "id": "3",
+    "name": "HVALHAJ",
+    "image": "./img/hvalhaj_produkt.png",
+    "ageGroup": 9,
+    "brickAmount": 51,
+    "stars": 4.8,
+    "price": 269.95
+  },
+  {
+    "id": "4",
+    "name": "KLOVNEFISK I KORALREV",
+    "image": "./img/klovnefisk_produkt.png",
+    "ageGroup": 12,
+    "brickAmount": 75,
+    "stars": 4.7,
+    "price": 389.95
+  },
+  {
+    "id": "5",
+    "name": "SÆL",
+    "image": "./img/sæl_produkt.png",
+    "ageGroup": 9,
+    "brickAmount": 47,
+    "stars": 4.6,
+    "price": 269.95
+  },
+  {
+    "id": "6",
+    "name": "HAVKLODSER",
+    "image": "./img/havklodser_produkt.png",
+    "ageGroup": 9,
+    "brickAmount": 100,
+    "stars": 4.5,
+    "price": 249.95
+  }
+]
